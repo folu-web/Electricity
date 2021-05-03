@@ -1,0 +1,6 @@
+C:\Users\15874\source\repos\Electricity-Bill\CustomerData\bin\Debug\CustomerData.dll
+C:\Users\15874\source\repos\Electricity-Bill\CustomerData\bin\Debug\CustomerData.pdb
+C:\Users\15874\source\repos\Electricity-Bill\CustomerData\obj\Debug\CustomerData.csproj.CoreCompileInputs.cache
+C:\Users\15874\source\repos\Electricity-Bill\CustomerData\obj\Debug\CustomerData.dll
+C:\Users\15874\source\repos\Electricity-Bill\CustomerData\obj\Debug\CustomerData.pdb
+C:\Users\15874\source\repos\Electricity-Bill\CustomerData\obj\Debug\CustomerData.csprojAssemblyReference.cache
